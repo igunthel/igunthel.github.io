@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://igunthel.github.io/sitemap.igunthel.gz
+Sitemap: https://igunthel.github.io/app/sitemap.igunthel.gz
+Sitemap: https://igunthel.github.io/assets/sitemap.igunthel.gz
+Sitemap: https://igunthel.github.io/css/sitemap.igunthel.gz
+Sitemap: https://igunthel.github.io/data/sitemap.igunthel.gz
+Sitemap: https://igunthel.github.io/includes/sitemap.igunthel.gz
+Sitemap: https://igunthel.github.io/item/sitemap.igunthel.gz
+Sitemap: https://igunthel.github.io/src/sitemap.igunthel.gz
